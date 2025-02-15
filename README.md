@@ -1,1 +1,3 @@
-# workshop-b3
+# Workshop Gánh team bằng github
+## Buổi số 3
+
