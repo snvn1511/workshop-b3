@@ -1,2 +1,2 @@
-dòng B
+dòng AB
 dòng 2
